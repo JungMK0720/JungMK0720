@@ -29,14 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JungMK0720&hide_border=true" alt="streak stats" />
-</p>
-
----
-
 ### 📌 Pinned / Featured Projects
 <!-- TODO: 대표 프로젝트 3~6개를 골라 GitHub 프로필에서 Pin 하면 여기 대신 프로필 상단 카드에 자동으로 노출돼요 -->
 
