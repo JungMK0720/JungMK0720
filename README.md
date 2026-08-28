@@ -32,12 +32,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JungMK0720&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungMK0720&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JungMK0720&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=JungMK0720&hide_border=true" alt="streak stats" />
 </p>
 
 ---
