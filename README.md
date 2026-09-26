@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jung Minkyu
+# Hi, I'm Jung Minkyu
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+with+Java+%26+Spring+Boot;Deploying+with+Docker+%26+Kubernetes;Exploring+AI-powered+Services"
@@ -25,19 +25,19 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 ---
 
-## 🌱 About Me
+## About Me
 
-- 💻 명지대학교 응용소프트웨어전공 졸업, **Java / Spring Boot** 기반 Backend 개발
-- ☁️ **Docker / Kubernetes / GCP** 기반 서비스 배포 및 CI/CD 구성 경험
-- 🤖 **LLM / OCR / STT / Agentic AI**를 활용한 서비스 개발 경험
-- 📚 현재 **SKALA(SK AI Learning Academy)**에서 Backend, MSA, Kubernetes, 생성형 AI를 학습 중
-- 🏆 신뢰도 기반 매칭 서비스 **TrustBuilder**로 1인창조기업 공모전 최우수상 수상
+- 명지대학교 응용소프트웨어전공 졸업, **Java / Spring Boot** 기반 Backend 개발
+- **Docker / Kubernetes / GCP** 기반 서비스 배포 및 CI/CD 구성 경험
+- **LLM / OCR / STT / Agentic AI**를 활용한 서비스 개발 경험
+- 현재 **SKALA (SK AI Learning Academy)** 에서 Backend, MSA, Kubernetes, 생성형 AI를 학습 중
+- 신뢰도 기반 매칭 서비스 **TrustBuilder**로 1인창조기업 공모전 최우수상 수상
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 💰 FinMATE
+### FinMATE
 
 > 투자 성향 판정과 LLM 기반 설명 생성을 결합한 AI 금융 서비스
 
@@ -49,7 +49,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <br>
 
-### 🏭 PlantGuard AI
+### PlantGuard AI
 
 > 반도체 Ion Mill Etch 설비 FlowCool 서브시스템의 예지보전 플랫폼 (SKALA 4인 팀 프로젝트)
 
@@ -62,7 +62,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <br>
 
-### 💊 Medication Guide RPA
+### Medication Guide RPA
 
 > OCR · STT · Agentic AI를 활용한 복약 안내 자동화 서비스
 
@@ -73,7 +73,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <br>
 
-### ☁️ MSA Cloud Deployment
+### MSA Cloud Deployment
 
 > Spring Boot 기반 서비스를 Kubernetes 환경에 배포하고 CI/CD를 구성한 프로젝트
 
@@ -85,7 +85,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <br>
 
-### 🤝 TrustBuilder
+### TrustBuilder
 
 > 신뢰도 기반 팀 매칭 서비스 — 1인창조기업 공모전 최우수상 수상
 
@@ -101,13 +101,13 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <br>
 
-➡️ **프로젝트의 자세한 설계와 구현 내용은 [Portfolio](https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)에서 확인할 수 있습니다.**
+**프로젝트의 자세한 설계와 구현 내용은 [Portfolio](https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)에서 확인할 수 있습니다.**
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### ☕ Backend
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -116,7 +116,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
@@ -124,7 +124,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -134,14 +134,14 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### 🗄 Database
+### Database
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🤖 AI / Automation
+### AI / Automation
 
 <p>
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -154,21 +154,37 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 ---
 
-## 🏅 Certifications & Awards
+## Certifications & Awards
 
-**Certifications** — `정보처리기사` `SQLD` `ADsP` `빅데이터분석기사`
+**Certifications (직무 연관)**
 
-**Award** — 1인창조기업 Value Chain 분석·사업모델 공모전 **최우수상** (TrustBuilder)
+`빅데이터분석기사` `정보처리기사` `SQLD` `ADsP`
+
+<details>
+<summary>기타 자격증 (직무 외)</summary>
+<br>
+
+`Adobe Certified Professional - Digital Video Using Premiere Pro` `GA4 (Google Analytics 4)` `컴퓨터활용능력2급` `화학분석기능사` `굴착기운전기능사` `지게차운전기능사` `운전면허`
+
+</details>
+
+<br>
+
+**Awards**
+
+- 1인창조기업 Value Chain 분석·사업모델 공모전(꽃들에게 희망을) **최우수상** — TrustBuilder
+- MJ 전공멘토스 **활동우수상**
+- 한국어 튜터링 **우수상장**
 
 ---
 
-## 📚 SKALA
+## SKALA
 
 SKALA에서 진행하는 학습 및 실습 코드는 별도 GitHub 계정에서 관리하고 있습니다.
 
 <div align="center">
 
-### 👉 [minkyu-k530](https://github.com/minkyu-k530)
+### [minkyu-k530](https://github.com/minkyu-k530)
 
 `Java` · `Spring Boot` · `MSA` · `Database` · `Docker` · `Kubernetes` · `Generative AI`
 
@@ -178,6 +194,6 @@ SKALA에서 진행하는 학습 및 실습 코드는 별도 GitHub 계정에서 
 
 <div align="center">
 
-### 🌱 꾸준히 만들고, 배포하고, 개선하고 있습니다.
+### 꾸준히 만들고, 배포하고, 개선하고 있습니다.
 
 </div>
