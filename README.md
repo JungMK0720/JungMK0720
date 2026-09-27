@@ -20,6 +20,9 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 <a href="https://github.com/minkyu-k530">
   <img src="https://img.shields.io/badge/SKALA-GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="<<링크>>">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
@@ -187,6 +190,18 @@ SKALA에서 진행하는 학습 및 실습 코드는 별도 GitHub 계정에서 
 ### [minkyu-k530](https://github.com/minkyu-k530)
 
 `Java` · `Spring Boot` · `MSA` · `Database` · `Docker` · `Kubernetes` · `Generative AI`
+
+</div>
+
+---
+
+## LeetCode
+
+<div align="center">
+
+<a href="<<링크>>">
+  <img src="https://leetcard.jacoblin.cool/<<아이디>>?theme=dark&font=Baloo%202&ext=heatmap"/>
+</a>
 
 </div>
 
