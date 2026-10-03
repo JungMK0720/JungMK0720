@@ -33,7 +33,7 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 - 명지대학교 응용소프트웨어전공 졸업, **Java / Spring Boot** 기반 Backend 개발
 - **Docker / Kubernetes / GCP** 기반 서비스 배포 및 CI/CD 구성 경험
 - **LLM / OCR / STT / Agentic AI**를 활용한 서비스 개발 경험
-- 현재 **SKALA (SK AI Learning Academy)** 에서 Backend, MSA, Kubernetes, 생성형 AI를 학습 중
+- 현재 **SKALA (SK AI Leader Academy)** 에서 Backend, MSA, Kubernetes, 생성형 AI를 학습 중
 - 신뢰도 기반 매칭 서비스 **TrustBuilder**로 1인창조기업 공모전 최우수상 수상
 
 ---
