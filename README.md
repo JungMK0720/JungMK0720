@@ -9,8 +9,8 @@
 
 <br>
 
-Java / Spring Boot를 중심으로 서비스를 개발하고,
-Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것에 관심이 있습니다.
+I build services with Java and Spring Boot, deploy them to cloud environments myself,
+and enjoy connecting AI features to real services.
 
 <br>
 
@@ -30,11 +30,11 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 ## About Me
 
-- 명지대학교 응용소프트웨어전공 졸업, **Java / Spring Boot** 기반 Backend 개발
-- **Docker / Kubernetes / GCP** 기반 서비스 배포 및 CI/CD 구성 경험
-- **LLM / OCR / STT / Agentic AI**를 활용한 서비스 개발 경험
-- 현재 **SKALA (SK AI Leader Academy)** 에서 Backend, MSA, Kubernetes, 생성형 AI를 학습 중
-- 신뢰도 기반 매칭 서비스 **TrustBuilder**로 1인창조기업 공모전 최우수상 수상
+- B.S. in Applied Software, Myongji University. Backend development with **Java / Spring Boot**
+- Experience deploying services and setting up CI/CD with **Docker / Kubernetes / GCP**
+- Experience building services with **LLM / OCR / STT / Agentic AI**
+- Currently studying Backend, MSA, Kubernetes, and Generative AI at **SKALA (SK AI Leader Academy)**
+- Won the **Best Award** in a one-person enterprise business model competition with **TrustBuilder**, a trust-based matching service
 
 ---
 
@@ -42,69 +42,69 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 ### FinMATE
 
-> 투자 성향 판정과 LLM 기반 설명 생성을 결합한 AI 금융 서비스
+> An AI financial service that combines investor profile classification with LLM-generated explanations
 
-`Java` `Spring Boot` `Vue` `Claude API`
+`Java` `Spring Boot` `Vue`
 
-- 투자 성향 판정은 Rule Engine에서 수행하고 LLM은 설명 생성에만 사용
-- 생성 결과에 대해 금지어, 점수 정합성, 라벨 혼입 등을 검증하는 로직 구현
-- 기획부터 Backend, Frontend 구현 및 배포 구성까지 진행
+- Investor profile classification is done by a rule engine; the LLM is used only to generate explanations
+- Implemented checks on generated text for banned words, score consistency, and label mix-ups
+- Handled planning, backend, frontend, and deployment setup
 
 <br>
 
 ### PlantGuard AI
 
-> 반도체 Ion Mill Etch 설비 FlowCool 서브시스템의 예지보전 플랫폼 (SKALA 4인 팀 프로젝트)
+> A predictive maintenance platform for the FlowCool subsystem of semiconductor Ion Mill Etch equipment (SKALA 4-person team project)
 
-`Python` `scikit-learn` `MSA` `Agile`
+`Python` `MSA` `Agile`
 
-- 사후대응 중심 정비를 계획정비로 전환하기 위한 문제 정의 및 KPI 설계 담당
-- Isolation Forest 기반 이상탐지 → 단일 설비 TTF 회귀 → 동일 기종 풀링 학습 순으로 모델 실험 진행
-- 동일 기종 8개 설비를 묶어 학습한 결과, 처음 보는 설비 25건 중 6건(24%)에서 사전 경고 성공 확인
-- 이상탐지·예측 모델링과 최종 발표 담당
+- Defined the problem and designed the KPI to move from reactive repair to planned maintenance
+- Ran model experiments in order: Isolation Forest anomaly detection, single-machine TTF regression, then pooled training across machines of the same type
+- Training on 8 machines of the same type gave early warnings for 6 of 25 failures (24%) on machines the model had never seen
+- Responsible for anomaly detection and prediction modeling, and the final presentation
 
 <br>
 
 ### Medication Guide RPA
 
-> OCR · STT · Agentic AI를 활용한 복약 안내 자동화 서비스
+> A medication guidance automation service using OCR, STT, and Agentic AI
 
 `Python` `FastAPI` `CrewAI` `UiPath`
 
-- OCR → 의약품 정보 처리 → 위험도 판단 → 복약 안내로 이어지는 하나의 Workflow 구성
-- 팀 간 API 연동 과정에서 데이터 Schema를 통일하고 검증 로직 구현
+- Built one workflow: OCR, drug information processing, risk assessment, then medication guidance
+- Unified the data schema across teams during API integration and implemented validation logic
 
 <br>
 
 ### MSA Cloud Deployment
 
-> Spring Boot 기반 서비스를 Kubernetes 환경에 배포하고 CI/CD를 구성한 프로젝트
+> A project that deployed Spring Boot services to Kubernetes and set up CI/CD
 
 `Spring Boot` `Docker` `Kubernetes` `GKE` `GitHub Actions` `Argo CD`
 
-- Docker Image 생성 후 GKE Kubernetes 환경에 배포
-- GitHub Actions와 Argo CD를 이용한 CI/CD 구성
-- CORS, Health Check 및 Pod / Service 통신 문제 해결
+- Built Docker images and deployed them to a GKE Kubernetes environment
+- Set up CI/CD with GitHub Actions and Argo CD
+- Solved CORS, health check, and Pod / Service communication issues
 
 <br>
 
 ### TrustBuilder
 
-> 신뢰도 기반 팀 매칭 서비스 — 1인창조기업 공모전 최우수상 수상
+> A trust-based team matching service. Best Award in a one-person enterprise competition
 
 `Web` `Netlify`
 
-- 팀 프로젝트에서 반복되던 팀원 이탈 문제를 "신뢰를 판단할 기준 부재"로 재정의
-- 신뢰도 기반 팀 매칭 서비스를 기획해 Netlify에 직접 런칭
-- 1인창조기업 Value Chain 분석·사업모델 공모전 **최우수상** 수상
+- Redefined the recurring problem of team members dropping out of team projects as "no standard for judging trust"
+- Planned a trust-based team matching service and launched it on Netlify myself
+- Won the **Best Award** in the one-person enterprise value chain analysis and business model competition
 
 <br>
 
-**그 외 프로젝트**: **Reflection Mini Framework** · Java Reflection API 기반 객체 자동 등록 미니 프레임워크 &nbsp;|&nbsp; **Rhythm Game** · Python(pygame)으로 만든 커스텀 리듬게임 (오디오 비트 추출 파이프라인 직접 구현)
+**Other projects**: **Reflection Mini Framework**, a mini framework that registers objects automatically with the Java Reflection API &nbsp;|&nbsp; **Rhythm Game**, a custom rhythm game in Python (pygame) with an audio beat extraction pipeline I built myself
 
 <br>
 
-**프로젝트의 자세한 설계와 구현 내용은 [Portfolio](https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)에서 확인할 수 있습니다.**
+**Detailed design and implementation of each project are in the [Portfolio](https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) (Korean).**
 
 ---
 
@@ -123,7 +123,6 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -141,16 +140,16 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### AI / Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
 </p>
@@ -159,15 +158,15 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 ## Certifications & Awards
 
-**Certifications (직무 연관)**
+**Certifications (job-related)**
 
-`빅데이터분석기사` `정보처리기사` `SQLD` `ADsP`
+`Big Data Analysis Engineer` `Engineer Information Processing` `SQLD` `ADsP`
 
 <details>
-<summary>기타 자격증 (직무 외)</summary>
+<summary>Other certifications (not job-related)</summary>
 <br>
 
-`Adobe Certified Professional - Digital Video Using Premiere Pro` `GA4 (Google Analytics 4)` `컴퓨터활용능력2급` `화학분석기능사` `굴착기운전기능사` `지게차운전기능사` `운전면허`
+`Adobe Certified Professional - Digital Video Using Premiere Pro` `GA4 (Google Analytics 4)` `Computer Skills Level 2` `Chemical Analysis Technician` `Excavator Operator` `Forklift Operator` `Driver's License`
 
 </details>
 
@@ -175,21 +174,21 @@ Cloud 환경에 직접 배포하며 AI 기능을 서비스에 연결하는 것�
 
 **Awards**
 
-- 1인창조기업 Value Chain 분석·사업모델 공모전(꽃들에게 희망을) **최우수상** — TrustBuilder
-- MJ 전공멘토스 **활동우수상**
-- 한국어 튜터링 **우수상장**
+- **Best Award**, One-Person Enterprise Value Chain Analysis and Business Model Competition ("Hope for Flowers"), for TrustBuilder
+- **Best Active Participant Award**, MJ Major Mentors, Myongji University
+- **Excellence Award**, Korean Tutoring, Myongji University
 
 ---
 
 ## SKALA
 
-SKALA에서 진행하는 학습 및 실습 코드는 별도 GitHub 계정에서 관리하고 있습니다.
+My coursework and practice code from SKALA are managed in a separate GitHub account.
 
 <div align="center">
 
 ### [minkyu-k530](https://github.com/minkyu-k530)
 
-`Java` · `Spring Boot` · `MSA` · `Database` · `Docker` · `Kubernetes` · `Generative AI`
+`Java` `Spring Boot` `MSA` `Database` `Docker` `Kubernetes` `Generative AI`
 
 </div>
 
@@ -209,6 +208,6 @@ SKALA에서 진행하는 학습 및 실습 코드는 별도 GitHub 계정에서 
 
 <div align="center">
 
-### 꾸준히 만들고, 배포하고, 개선하고 있습니다.
+### I keep building, deploying, and improving.
 
 </div>
