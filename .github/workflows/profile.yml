@@ -1,0 +1,51 @@
+# Redraws the activity cards every night and publishes them to the `output` branch.
+# Nothing is committed to main.
+name: profile cards
+
+on:
+  schedule:
+    - cron: "17 18 * * *"   # 03:17 KST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build-cards.mjs
+      - .github/workflows/profile.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Keep last run's numbers as a fallback
+        run: curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/output/data.json" -o "$RUNNER_TEMP/prev.json" || true
+
+      - name: Draw cards
+        run: node scripts/build-cards.mjs dist
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PREV_DATA: ${{ runner.temp }}/prev.json
+
+      - name: Publish to the output branch
+        working-directory: dist
+        run: |
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "cards: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
+        env:
+          GH_TOKEN: ${{ github.token }}

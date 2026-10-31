@@ -1,213 +1,119 @@
-<div align="center">
-
-# Hi, I'm Jung Minkyu
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+with+Java+%26+Spring+Boot;Deploying+with+Docker+%26+Kubernetes;Exploring+AI-powered+Services"
-  alt="Typing SVG"
-/>
-
-<br>
-
-I build services with Java and Spring Boot, deploy them to cloud environments myself,
-and enjoy connecting AI features to real services.
-
-<br>
-
-<a href="https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">
-  <img src="https://img.shields.io/badge/Portfolio-View_PDF-FF6B81?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-<a href="https://github.com/minkyu-k530">
-  <img src="https://img.shields.io/badge/SKALA-GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/MKJung/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## About Me
-
-- B.S. in Applied Software, Myongji University. Backend development with **Java / Spring Boot**
-- Experience deploying services and setting up CI/CD with **Docker / Kubernetes / GCP**
-- Experience building services with **LLM / OCR / STT / Agentic AI**
-- Currently studying Backend, MSA, Kubernetes, and Generative AI at **SKALA (SK AI Leader Academy)**
-- Won the **Best Award** in a one-person enterprise business model competition with **TrustBuilder**, a trust-based matching service
-
----
-
-## Featured Projects
-
-### FinMATE
-
-> An AI financial service that combines investor profile classification with LLM-generated explanations
-
-`Java` `Spring Boot` `Vue`
-
-- Investor profile classification is done by a rule engine; the LLM is used only to generate explanations
-- Implemented checks on generated text for banned words, score consistency, and label mix-ups
-- Handled planning, backend, frontend, and deployment setup
-
-<br>
-
-### PlantGuard AI
-
-> A predictive maintenance platform for the FlowCool subsystem of semiconductor Ion Mill Etch equipment (SKALA 4-person team project)
-
-`Python` `MSA` `Agile`
-
-- Defined the problem and designed the KPI to move from reactive repair to planned maintenance
-- Ran model experiments in order: Isolation Forest anomaly detection, single-machine TTF regression, then pooled training across machines of the same type
-- Training on 8 machines of the same type gave early warnings for 6 of 25 failures (24%) on machines the model had never seen
-- Responsible for anomaly detection and prediction modeling, and the final presentation
-
-<br>
-
-### Medication Guide RPA
-
-> A medication guidance automation service using OCR, STT, and Agentic AI
-
-`Python` `FastAPI` `CrewAI` `UiPath`
-
-- Built one workflow: OCR, drug information processing, risk assessment, then medication guidance
-- Unified the data schema across teams during API integration and implemented validation logic
-
-<br>
-
-### MSA Cloud Deployment
-
-> A project that deployed Spring Boot services to Kubernetes and set up CI/CD
-
-`Spring Boot` `Docker` `Kubernetes` `GKE` `GitHub Actions` `Argo CD`
-
-- Built Docker images and deployed them to a GKE Kubernetes environment
-- Set up CI/CD with GitHub Actions and Argo CD
-- Solved CORS, health check, and Pod / Service communication issues
-
-<br>
-
-### TrustBuilder
-
-> A trust-based team matching service. Best Award in a one-person enterprise competition
-
-`Web` `Netlify`
-
-- Redefined the recurring problem of team members dropping out of team projects as "no standard for judging trust"
-- Planned a trust-based team matching service and launched it on Netlify myself
-- Won the **Best Award** in the one-person enterprise value chain analysis and business model competition
-
-<br>
-
-**Other projects**: **Reflection Mini Framework**, a mini framework that registers objects automatically with the Java Reflection API &nbsp;|&nbsp; **Rhythm Game**, a custom rhythm game in Python (pygame) with an audio beat extraction pipeline I built myself
-
-<br>
-
-**Detailed design and implementation of each project are in the [Portfolio](https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf) (Korean).**
-
----
-
-# Tech Stack
-
-### Backend
-
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/header-dark.svg">
+    <img alt="Jung Minkyu (정민규), backend developer" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/header-light.svg" width="100%">
+  </picture>
 </p>
 
-### Frontend
-
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <a href="https://jungminkyu.netlify.app/%EC%A0%95%EB%AF%BC%EA%B7%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf"><img alt="Portfolio (PDF)" src="https://img.shields.io/badge/Portfolio-PDF-002968?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
+  <a href="https://github.com/minkyu-k530"><img alt="SKALA work on minkyu-k530" src="https://img.shields.io/badge/SKALA_work-minkyu--k530-002968?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/MKJung/"><img alt="LeetCode MKJung" src="https://img.shields.io/badge/LeetCode-MKJung-002968?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
-### Cloud & DevOps
+I wanted to know how a server holds up when things break, so I built a server room operations game and reproduced power outages, disk failures and slow connections to watch the server cope. For four finance learning services covering securities, banking, capital and cards, I pinned the money math down with versioned rule sets and golden values. I own the design, the verification and the numbers, and every figure below is recorded in its repository with the command that reproduces it.
+
+I finished a B.S. in Applied Software at Myongji University in August 2026 and I am now in the AI, cloud and MSA program at SK AI Leader Academy (SKALA). I work mostly in Java 21, Spring Boot and PostgreSQL.
+
+## Featured work
+
+### Server Room Simulator
+
+<sub>Personal project, August 2026 to present. Java 21, Spring Boot 4, PostgreSQL, WebSocket. The repository is private.</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img alt="Server Room Simulator start screen" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/shots/srs.webp" width="59%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/srs-chart-dark.svg">
+    <img alt="Max tick time with 100 players: 537 ms before, 28.7 ms after" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/srs-chart-light.svg" width="39%">
+  </picture>
 </p>
 
-### Database
+A 3D server room operations game where you live through power outages and disk failures. The server computes every rule, state change and failure in a 100 ms tick loop, and the browser only draws the result and sends input.
+
+A load test showed WebSocket sends blocking the tick thread, which stretched one tick to 537 ms. I gave each connection its own virtual-thread sender with a cap on queued frames, so a slow client can no longer hold up the loop. With 100 concurrent players the longest tick is now 28.7 ms, and a command reaches the screen within 101 ms at p99.
+
+The same seed always produces the same game, and 41,445 golden floating-point values match bit for bit. The project has 1,360 automated tests and 72 architecture decision records.
+
+### MATE series
+
+<sub>Personal projects, August 2026 to present. Spring Boot, PostgreSQL, React.</sub>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="Home screens of FinMATE, Oh My Bank, CapiMATE and CardMATE" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/shots/mate.webp" width="59%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/mate-card-dark.svg">
+    <img alt="MATE series: FinMATE, Oh My Bank, CapiMATE, CardMATE" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/main/assets/mate-card-light.svg" width="39%">
+  </picture>
 </p>
 
-### AI / Automation
+Four services for learning securities, banking, capital lending and card benefits, built around numbers a learner can trust. They share one documentation scheme (UR, FR, NFR, ADR), one database strategy and one approach to auth.
+
+Investor profile grades come from a rule engine, and an LLM only writes the explanation, which has to pass a validator. There is one calculation engine, figures live in versioned rule-set JSON, and amounts are whole won with written truncation rules. Golden values (17 cases for CapiMATE, 120 for CardMATE) are read by the docs, the code and the tests together, so any drift breaks the build. Daily closing batches are idempotent and write APIs take an Idempotency-Key.
+
+I integrated the parallel output of 14 AI coding agents myself. Fourteen defects only showed up between work packages, such as monthly interest coming out one won short, and each one was reproduced in a test before it was fixed.
+
+Public code: [FinMATE](https://github.com/JungMK0720/AI-invest-interest), [Oh My Bank frontend](https://github.com/oh-my-bank/frontend), [CapiMATE frontend](https://github.com/oh-my-capital/frontend). The backends are private.
+
+### More projects
+
+- **tradingBot**, an ETF trading bot on the Korea Investment & Securities Open API (Java 21, Spring Boot 4). The order executor never sends a duplicate order, even with rate limits, a one-token-per-minute issuing limit and delayed fills. It buys with limit orders only and never on margin, stops new buys after a 3% daily loss, sells everything 15% below the peak, and has a kill switch. Orders, fills and cancels were checked intraday on a paper account on 2026-10-16.
+- **Mock Quote Server**, a controlled experiment on how quotes reach clients (Spring Boot 4.1). With the same seeded quotes and the same measuring client, I changed one thing at a time: push or polling, connection reuse, subscriber count. At 50 subscribers, push kept update latency at 3.9 ms p99 with nothing lost, while 1-second polling missed 90% of updates. Turning connection reuse off opened 4,003 connections in 20 seconds.
+- **[Stock Speed Lab](https://github.com/minkyu-k530/compare-stock)**, a tool that measures how long the Toss and Korea Investment apps take to show a stock's name and price after a tap, using frame timestamps from screen recordings. The pilot came out opposite to the common impression, so I wrote down four hypotheses and fixed the main experiment design (ABBA order, 60 runs) before measuring.
+- **PlantGuard AI**, a failure prediction platform for semiconductor equipment (SKALA, team of four, KPI design and modeling). A model trained on one machine raised no alert across 19 failures. Retrained on data pooled from eight machines of the same type, it warned early on 6 of 25 failures on machines it had never seen.
+- **[Pipes & Filters course registration](https://github.com/JungMK0720/mju-pipes-and-filters)**, a multithreaded CLI in Java. A filter registry and component scanner built on custom annotations and reflection assemble the filters a scenario needs at runtime, so adding a job takes no pipeline code changes. Graded A+.
+
+## Activity
 
 <p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JungMK0720/JungMK0720/output/calendar-dark.svg">
+    <img alt="Contributions in the last year, both accounts combined" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/output/calendar-light.svg" width="100%">
+  </picture>
 </p>
 
----
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JungMK0720/JungMK0720/output/stats-dark.svg">
+    <img alt="Activity in the last 12 months" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/output/stats-light.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JungMK0720/JungMK0720/output/recent-dark.svg">
+    <img alt="Recently pushed public repositories" src="https://raw.githubusercontent.com/JungMK0720/JungMK0720/output/recent-light.svg" width="49%">
+  </picture>
+</p>
 
-## Certifications & Awards
+## Stack
 
-**Certifications (job-related)**
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,githubactions,gcp,prometheus,python,fastapi,react,vue,git&theme=dark">
+    <img alt="Java, Spring, PostgreSQL, MySQL, Docker, Kubernetes, GitHub Actions, GCP, Prometheus, Python, FastAPI, React, Vue, Git" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,githubactions,gcp,prometheus,python,fastapi,react,vue,git&theme=light">
+  </picture>
+</p>
 
-`Big Data Analysis Engineer` `Engineer Information Processing` `SQLD` `ADsP`
+Servers in Java 21 and Spring Boot, PostgreSQL with Flyway migrations and Testcontainers integration tests, metrics through Micrometer and Prometheus. I have packaged services as Docker images, deployed them to GKE, and set up CI/CD with GitHub Actions and Argo CD. Measurement tools and analysis are in Python.
+
+## Education and certifications
+
+- **Myongji University**, B.S. in Applied Software (transfer), March 2024 to August 2026. GPA 3.83/4.5, major GPA 3.92/4.5, ranked 7th of 34.
+- **SK AI Leader Academy (SKALA)**, AI, cloud and MSA program, July to December 2026.
+- **Certifications**: Engineer Information Processing, Big Data Analysis Engineer, SQLD, ADsP.
 
 <details>
 <summary>Other certifications (not job-related)</summary>
 <br>
 
-`Adobe Certified Professional - Digital Video Using Premiere Pro` `GA4 (Google Analytics 4)` `Computer Skills Level 2` `Chemical Analysis Technician` `Excavator Operator` `Forklift Operator` `Driver's License`
+Adobe Certified Professional (Premiere Pro), Google Analytics 4, Computer Skills Level 2, Chemical Analysis Technician, Excavator Operator, Forklift Operator, Driver's License.
 
 </details>
 
+## Awards
+
+- **Best Award**, One-Person Enterprise Value Chain Analysis and Business Model Competition ("Hope for Flowers"), 1st of 20 teams, for TrustBuilder (February 2026)
+- **Best Active Participant Award**, MJ Major Mentors, Myongji University (December 2025)
+- **Excellence Award**, Korean Tutoring, Myongji University, as team leader (December 2024)
+
 <br>
 
-**Awards**
-
-- **Best Award**, One-Person Enterprise Value Chain Analysis and Business Model Competition ("Hope for Flowers"), for TrustBuilder
-- **Best Active Participant Award**, MJ Major Mentors, Myongji University
-- **Excellence Award**, Korean Tutoring, Myongji University
-
----
-
-## SKALA
-
-My coursework and practice code from SKALA are managed in a separate GitHub account.
-
-<div align="center">
-
-### [minkyu-k530](https://github.com/minkyu-k530)
-
-`Java` `Spring Boot` `MSA` `Database` `Docker` `Kubernetes` `Generative AI`
-
-</div>
-
----
-
-## LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/MKJung/">
-  <img src="https://leetcard.jacoblin.cool/MKJung?theme=dark&font=Baloo%202&ext=heatmap"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### I keep building, deploying, and improving.
-
-</div>
+<sub>Coursework and practice from SKALA live on <a href="https://github.com/minkyu-k530">minkyu-k530</a>. The activity cards are redrawn every night by <a href="https://github.com/JungMK0720/JungMK0720/blob/main/.github/workflows/profile.yml">a GitHub Actions workflow</a>.</sub>
