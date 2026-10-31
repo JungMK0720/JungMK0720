@@ -87,8 +87,8 @@ Public code: [FinMATE](https://github.com/JungMK0720/AI-invest-interest), [Oh My
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,githubactions,gcp,prometheus,python,fastapi,react,vue,git&theme=dark">
-    <img alt="Java, Spring, PostgreSQL, MySQL, Docker, Kubernetes, GitHub Actions, GCP, Prometheus, Python, FastAPI, React, Vue, Git" src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,githubactions,gcp,prometheus,python,fastapi,react,vue,git&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmysql%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgcp%2Cprometheus%2Cpython%2Cfastapi%2Creact%2Cvue%2Cgit&theme=dark">
+    <img alt="Java, Spring, PostgreSQL, MySQL, Docker, Kubernetes, GitHub Actions, GCP, Prometheus, Python, FastAPI, React, Vue, Git" src="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmysql%2Cdocker%2Ckubernetes%2Cgithubactions%2Cgcp%2Cprometheus%2Cpython%2Cfastapi%2Creact%2Cvue%2Cgit&theme=light">
   </picture>
 </p>
 
