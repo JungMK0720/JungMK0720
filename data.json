@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-11-06T23:11:52.943Z",
+  "window": {
+    "from": "2025-11-07",
+    "to": "2026-11-06"
+  },
+  "total": 1613,
+  "last30Days": 1321,
+  "perUser": [
+    {
+      "login": "JungMK0720",
+      "total": 217
+    },
+    {
+      "login": "minkyu-k530",
+      "total": 1396
+    }
+  ],
+  "busiest": {
+    "label": "October 2026",
+    "count": 1201
+  },
+  "leetcode": {
+    "solved": 364,
+    "easy": 172,
+    "medium": 164,
+    "hard": 28
+  },
+  "recent": [
+    {
+      "repo": "SKALA-PS-2026/problem-solving",
+      "pushedAt": "2026-11-06T08:05:37Z"
+    },
+    {
+      "repo": "JungMK0720/skala-fps",
+      "pushedAt": "2026-11-06T07:51:09Z"
+    },
+    {
+      "repo": "oh-my-prop/frontend",
+      "pushedAt": "2026-11-05T10:09:32Z"
+    },
+    {
+      "repo": "JungMK0720/domain-study-port",
+      "pushedAt": "2026-11-03T11:41:11Z"
+    },
+    {
+      "repo": "minkyu-k530/sk-portwise",
+      "pushedAt": "2026-11-02T09:53:57Z"
+    },
+    {
+      "repo": "oh-my-finance/omf-frontend",
+      "pushedAt": "2026-11-02T08:24:07Z"
+    }
+  ]
+}
