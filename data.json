@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-11-13T23:35:51.599Z",
+  "window": {
+    "from": "2025-11-14",
+    "to": "2026-11-13"
+  },
+  "total": 1749,
+  "last30Days": 1437,
+  "perUser": [
+    {
+      "login": "JungMK0720",
+      "total": 315
+    },
+    {
+      "login": "minkyu-k530",
+      "total": 1434
+    }
+  ],
+  "busiest": {
+    "label": "October 2026",
+    "count": 1201
+  },
+  "leetcode": {
+    "solved": 367,
+    "easy": 173,
+    "medium": 166,
+    "hard": 28
+  },
+  "recent": [
+    {
+      "repo": "JungMK0720/skala-fps",
+      "pushedAt": "2026-11-13T07:55:18Z"
+    },
+    {
+      "repo": "JungMK0720/k8s-study",
+      "pushedAt": "2026-11-12T09:59:48Z"
+    },
+    {
+      "repo": "team-laytime/D-MIN-prototype",
+      "pushedAt": "2026-11-12T09:46:16Z"
+    },
+    {
+      "repo": "minkyu-k530/voucher-guide",
+      "pushedAt": "2026-11-12T07:18:12Z"
+    },
+    {
+      "repo": "JungMK0720/domain-study-port",
+      "pushedAt": "2026-11-07T14:17:29Z"
+    },
+    {
+      "repo": "SKALA-PS-2026/problem-solving",
+      "pushedAt": "2026-11-06T08:05:37Z"
+    }
+  ]
+}
