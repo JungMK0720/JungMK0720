@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-11-20T23:59:51.458Z",
+  "window": {
+    "from": "2025-11-21",
+    "to": "2026-11-20"
+  },
+  "total": 1855,
+  "last30Days": 1382,
+  "perUser": [
+    {
+      "login": "JungMK0720",
+      "total": 417
+    },
+    {
+      "login": "minkyu-k530",
+      "total": 1438
+    }
+  ],
+  "busiest": {
+    "label": "October 2026",
+    "count": 1201
+  },
+  "leetcode": {
+    "solved": 371,
+    "easy": 175,
+    "medium": 167,
+    "hard": 29
+  },
+  "recent": [
+    {
+      "repo": "JungMK0720/skala-fps",
+      "pushedAt": "2026-11-20T19:06:07Z"
+    },
+    {
+      "repo": "SKALA-PS-2026/problem-solving",
+      "pushedAt": "2026-11-20T06:29:41Z"
+    },
+    {
+      "repo": "team-laytime/D-MIN-prototype-palantir",
+      "pushedAt": "2026-11-18T00:25:58Z"
+    },
+    {
+      "repo": "oh-my-prop/frontend",
+      "pushedAt": "2026-11-16T04:27:21Z"
+    },
+    {
+      "repo": "JungMK0720/Y-ai",
+      "pushedAt": "2026-11-15T06:31:36Z"
+    },
+    {
+      "repo": "JungMK0720/k8s-study",
+      "pushedAt": "2026-11-12T09:59:48Z"
+    }
+  ]
+}
